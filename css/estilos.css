@@ -40,14 +40,16 @@ body
 #container h1
 {
     font-size: 20px;
-    margin: 1em;
-}
-#container p
-{
-    margin: 1em;
 }
 #post
 {
-    background:  white;
     padding: 1em;
+    background-color: white;
+}
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
